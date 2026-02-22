@@ -2,7 +2,7 @@
 
 Threat Assessment (Web App Vulnerabilities)
 
-In this lab Ill examine some web application vulnerabilities like poor authentication, SQL Injections, and Cross Site Scripting.
+In this lab I'll examine some web application vulnerabilities like poor authentication, SQL Injections, and Cross Site Scripting.
 
 Starting WebGoat
 The web server was already pre-installed and all I needed to do is run the program. From the menu bar on the top of the VM, I selected Applications > Accessories > Terminal. This opened up a Linux shell command terminal. Ran the following commands to start the web server. cd ~/tools/tomcat/bin & then sh startup.sh
